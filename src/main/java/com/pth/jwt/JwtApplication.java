@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * test
  * 입니다
  * 호호호
+ * 22
  */
 @SpringBootApplication
 public class JwtApplication {
