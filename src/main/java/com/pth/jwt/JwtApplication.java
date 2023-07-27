@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
 <<<<<<<
-1111111111111111111111111111ㅁㄴㅇㅁㄴㅇ
+1111111111111111111111111111ㅁㄴㅇㅁㄴㅇㅁㄴㅇㅁㄴㅇ
  */
 @SpringBootApplication
 public class JwtApplication {
