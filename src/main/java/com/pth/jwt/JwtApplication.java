@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 1111111111111111111111111111ㅁㄴㅇㅁㄴㅇㅁㄴㅇㅁㄴㅇㅁㄴㅇㄴㅁㅇ
 =======
  * test
- * 입니다
+ * 
  * 호호호
  * 22ㄴㅇㄴㅁㅇㄴ
 >>>>>>> test3
